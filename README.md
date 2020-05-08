@@ -1,5 +1,5 @@
 # ProvenanceEquine
-Provenance Equine Bodywork
+title: Welcome to Provenance Equine Bodywork
 
 <html>
   
